@@ -109,7 +109,7 @@ GEM
       multi_json
     erubi (1.13.0)
     execjs (2.8.1)
-    faker (3.4.1)
+    faker (3.4.2)
       i18n (>= 1.8.11, < 2)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
